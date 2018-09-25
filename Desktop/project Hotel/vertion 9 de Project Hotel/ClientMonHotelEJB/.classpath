@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/java EE/wildfly-10.1.0.Final/bin/client/jboss-cli-client.jar" sourcepath="C:/Users/djamel/.m2/repository/org/wildfly/core/wildfly-cli/2.2.0.Final/wildfly-cli-2.2.0.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/java EE/wildfly-10.1.0.Final/bin/client/jboss-client.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/monhotelEjb"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
