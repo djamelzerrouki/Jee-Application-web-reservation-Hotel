@@ -1,0 +1,120 @@
+ID_article : 1
+nom_article : pc
+ID_categoure : 4
+dessignation : ASUS
+Referance ASUS_HD $java.io.PrintStream@13da08
+############################################
+ID_article : 2
+nom_article : PRODUIT ENTRETIEN
+ID_categoure : 5
+dessignation : impremant_canon
+Referance canon123454564 $java.io.PrintStream@13da08
+############################################
+ID_article : 3
+nom_article : tv
+ID_categoure : 4
+dessignation : condor
+Referance condor123 $java.io.PrintStream@13da08
+############################################
+ID_article : 4
+nom_article : javel
+ID_categoure : 1
+dessignation : javel
+Referance JAVEL_BREF $java.io.PrintStream@13da08
+############################################
+ID_article : 5
+nom_article : ecren
+ID_categoure : 1
+dessignation : samsong
+Referance samsong $java.io.PrintStream@13da08
+############################################
+ID_article : 6
+nom_article : extenteur
+ID_categoure : 5
+dessignation : extenteur1600
+Referance extenteur12 $java.io.PrintStream@13da08
+############################################
+ID_article : 7
+nom_article : ppapier
+ID_categoure : 2
+dessignation : extra
+Referance 001 $java.io.PrintStream@13da08
+############################################
+ID_article : 8
+nom_article : isis
+ID_categoure : 1
+dessignation : lequed
+Referance ISIS_lequed_001 $java.io.PrintStream@13da08
+############################################
+ID_article : 9
+nom_article : cafétiere
+ID_categoure : 5
+dessignation : cafétiere_press
+Referance cafétiere_press_001 $java.io.PrintStream@13da08
+############################################
+ID_article : 10
+nom_article : Enduleur
+ID_categoure : 4
+dessignation : Enduleur
+Referance Enduleur_001 $java.io.PrintStream@13da08
+############################################
+ID_article : 11
+nom_article : stilo
+ID_categoure : 2
+dessignation : bleu
+Referance mola $java.io.PrintStream@13da08
+############################################
+ID_article : 12
+nom_article : PETIT MATERIEL
+ID_categoure : 1
+dessignation : impremant_canon
+Referance canon123 $java.io.PrintStream@13da08
+############################################
+ID_article : 13
+nom_article : graveuse
+ID_categoure : 2
+dessignation : Graveuse_Noire
+Referance Graveuse_Noire_1234 $java.io.PrintStream@13da08
+############################################
+ID_article : 14
+nom_article : 
+ID_categoure : 2
+dessignation : 
+Referance  $java.io.PrintStream@13da08
+############################################
+ID_article : 15
+nom_article : isis
+ID_categoure : 1
+dessignation : isis9
+Referance 1200 $java.io.PrintStream@13da08
+############################################
+ID_article : 16
+nom_article : papier
+ID_categoure : 2
+dessignation : papier_21_27
+Referance Papier_21_27 $java.io.PrintStream@13da08
+############################################
+ID_article : 17
+nom_article : regestre
+ID_categoure : 2
+dessignation : regestre123
+Referance 0110 $java.io.PrintStream@13da08
+############################################
+ID_article : 18
+nom_article : Grissile
+ID_categoure : 1
+dessignation : Top
+Referance G001 $java.io.PrintStream@13da08
+############################################
+ID_article : 19
+nom_article : javile2
+ID_categoure : 1
+dessignation : javile2
+Referance javile2-345bref $java.io.PrintStream@13da08
+############################################
+ID_article : 20
+nom_article : FOURNITUE DE BUREAU
+ID_categoure : 0
+dessignation : CACHER DE SERVICE
+Referance cacher_de_serves $java.io.PrintStream@13da08
+############################################

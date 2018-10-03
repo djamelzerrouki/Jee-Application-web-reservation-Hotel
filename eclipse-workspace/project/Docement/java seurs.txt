@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>My Page Title</title>
+</head>
+<body>
+<table border=1><tr><td>1</td><td>pc</td></tr>
+</body>
+</html>
