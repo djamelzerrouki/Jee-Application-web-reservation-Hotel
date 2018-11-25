@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.activation.DataSource"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="java.beans.Statement"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.amqp.RabbitProperties.Cache.Connection"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+</qualifiedTypeNameHistroy>
