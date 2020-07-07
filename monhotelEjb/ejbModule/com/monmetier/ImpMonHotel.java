@@ -36,7 +36,7 @@ import com.monprojct.MonResarvation;
 		em.persist(chambre);		
 		return chambre;
 	}
-
+// getChambreById
 	@Override
 	public Chambre getChambreById(Long C_code) {
 		Chambre chambre=em.find(Chambre.class, C_code);
