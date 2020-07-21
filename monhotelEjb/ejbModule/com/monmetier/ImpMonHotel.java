@@ -22,6 +22,7 @@ import com.monprojct.MonResarvation;
      * Default constructor. 
      */
 	
+//ImpMonHotel
     public ImpMonHotel() {
         // TODO Auto-generated constructor stub
     }
